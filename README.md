@@ -9,4 +9,4 @@
       <img src=fotos/Screenshot_20231021_171051_Gallery.jpg height=40% width=40%>
 
 - [ ] Conecte o hub à porta para acesso à internet
-  <br><img src=fotos/20231021_174938.jpg height=40% width=40%>
+  <br><img src=fotos/Correct_Headboard_alignment.jpg>
