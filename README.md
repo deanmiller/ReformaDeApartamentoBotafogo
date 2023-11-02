@@ -17,5 +17,9 @@
     - [ ] Verniz entre madeira ripada
   - [ ] Cria uma mesa de centro personalizada
 
+<details>
+  <summary>Novas solicitações a serem concluídas após meu retorno</summary>
 
-Novas solicitações a serem concluídas após meu retorno
+- [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
+
+<details>
