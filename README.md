@@ -28,4 +28,4 @@
 
 - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
 
-<details>
+</details>
