@@ -31,3 +31,8 @@
 - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
 
 </details>
+
+<hr width="30%">
+
+<img src=fotos/IMG_20231024_113100.jpg height=40% width=40%>
+
