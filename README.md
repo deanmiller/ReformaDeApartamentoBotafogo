@@ -16,3 +16,6 @@
     - [ ] Corrigir imperfeições
     - [ ] Verniz entre madeira ripada
   - [ ] Cria uma mesa de centro personalizada
+
+
+Novas solicitações a serem concluídas após meu retorno
