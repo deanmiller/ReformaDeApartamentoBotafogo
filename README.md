@@ -36,4 +36,6 @@
 
 <br><img src=fotos/IMG_20231024_113100.jpg height=40% width=40%>
 <br><img src=fotos/IMG_20231023_053952.jpg height=40% width=40%>
-
+<br><img src=fotos/20231024_153802.jpg height=40% width=40%>
+<br><img src=fotos/20231024_160418.jpg height=40% width=40%>
+<br><img src=fotos/20231024_193611.mp4 height=40% width=40%>
