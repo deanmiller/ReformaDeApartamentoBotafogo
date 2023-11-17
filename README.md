@@ -35,7 +35,13 @@
 <hr width="30%">
 
 <br><img src=fotos/IMG_20231024_113100.jpg height=40% width=40%>
+
 <br><img src=fotos/IMG_20231023_053952.jpg height=40% width=40%>
+
 <br><img src=fotos/20231024_153802.jpg height=40% width=40%>
+Feche esta janela até a metade. Mova ou remova o que estiver bloqueando o fechamento desta janela. Esta janela não precisa estar muito aberta. Posso ver meu apartamento do corredor. Ao fechar esta janela pela metade, será mais difícil ver o interior do meu apartamento. Entendo que entrará menos ar se esta janela estiver fechada até a metade.
+
 <br><img src=fotos/20231024_160418.jpg height=40% width=40%>
+
+
 <br><img src=fotos/20231024_193611.mp4 height=40% width=40%>
