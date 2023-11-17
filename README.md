@@ -43,14 +43,14 @@ O ventilador do chuveiro está caindo e ficando mais barulhento
 
 ----
 
-<details onep>
+<details open>
   <summary>Novas solicitações a serem concluídas após meu retorno</summary>
 
 - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
 
-<br><img src=fotos/20231024_160418.jpg height=40% width=40%><br>
-- [ ] Feche esta janela até a metade. Mova ou remova o que estiver bloqueando o fechamento desta janela. Esta janela não precisa estar muito aberta. Posso ver meu apartamento do corredor. Ao fechar esta janela pela metade, será mais difícil ver o interior do meu apartamento. Entendo que entrará menos ar se esta janela estiver fechada até a metade.
 
+- [ ] Feche esta janela até a metade. Mova ou remova o que estiver bloqueando o fechamento desta janela. Esta janela não precisa estar muito aberta. Posso ver meu apartamento do corredor. Ao fechar esta janela pela metade, será mais difícil ver o interior do meu apartamento. Entendo que entrará menos ar se esta janela estiver fechada até a metade.
+<br><img src=fotos/20231024_160418.jpg height=40% width=40%><br>
 
 </details>
 
