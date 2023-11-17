@@ -27,17 +27,17 @@
 
 
 <br><img src=fotos/IMG_20231024_113100.jpg height=40% width=40%><br>
-Pintar a parede embaixo da TV
+- Pintar a parede embaixo da TV
 
 <br><img src=fotos/IMG_20231023_053952.jpg height=40% width=40%><br>
-Repare o telhado, conserte vazamentos e remova todas as manchas de água
+- Repare o telhado, conserte vazamentos e remova todas as manchas de água
 
 <br><img src=fotos/20231024_153802.jpg height=40% width=40%>
+- ...
 
 
 
-
-O ventilador do chuveiro está caindo e ficando mais barulhento
+- O ventilador do chuveiro está caindo e ficando mais barulhento
 <a href="fotos/20231024_193611.mp4">Vídeo</a>
 
 ----
