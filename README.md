@@ -17,10 +17,10 @@
 <hr width="30%">
 
 - [ ] Marceneiro
-  - [ ] Corrija a oscilação na mesa de trabalho personalizada
-  - [ ] Porta da Frente
-    - [ ] Corrigir imperfeições
-    - [ ] Verniz entre madeira ripada
+  - [x] Corrija a oscilação na mesa de trabalho personalizada
+  - [x] Porta da Frente
+    - [x] Corrigir imperfeições
+    - [x] Verniz entre madeira ripada
   - [ ] Cria uma mesa de centro personalizada
 
 <hr width="30%">
