@@ -3,7 +3,7 @@
 ## Minha lista de verificação
 
 - [ ] Cozina
-  - [ ] Luzes LED embaixo dos prateleiras
+  - [ ] Instale luzes LED embaixo dos prateleiras
 
 <hr width="30%">
 
@@ -33,9 +33,7 @@
 - Repare o telhado, conserte vazamentos e remova todas as manchas de água
 
 <br><img src=fotos/20231024_153802.jpg height=40% width=40%>
-- ...
-
-
+- Instale luzes LED no armário
 
 - O ventilador do chuveiro está caindo e ficando mais barulhento
 <a href="fotos/20231024_193611.mp4">Vídeo</a>
