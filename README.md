@@ -26,10 +26,8 @@
 <hr width="30%">
 
 
-
-<hr width="30%">
-
-<br><img src=fotos/IMG_20231024_113100.jpg height=40% width=40%>
+<br><img src=fotos/IMG_20231024_113100.jpg height=40% width=40%><br>
+Pintar a parede embaixo da TV
 
 <br><img src=fotos/IMG_20231023_053952.jpg height=40% width=40%>
 
