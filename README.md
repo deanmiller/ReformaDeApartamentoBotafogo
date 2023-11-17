@@ -43,5 +43,5 @@ Feche esta janela até a metade. Mova ou remova o que estiver bloqueando o fecha
 
 <br><img src=fotos/20231024_160418.jpg height=40% width=40%>
 
-
-<br><img src=fotos/20231024_193611.mp4 height=40% width=40%>
+O ventilador do chuveiro está caindo e ficando mais barulhento
+<a href="fotos/20231024_193611.mp4">Vídeo</a>
