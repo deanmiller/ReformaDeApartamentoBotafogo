@@ -3,7 +3,7 @@
 ## Minha lista de verificação
 
 <details>
-  <summary><b>Concluído</b></summary>
+  <summary><b>Itens Concluídos</b></summary>
 
 - [x] Marceneiro
   - [x] Corrija a oscilação na mesa de trabalho personalizada
@@ -12,7 +12,8 @@
     - [x] Verniz entre madeira ripada
   - [x] Cria uma mesa de centro personalizada
 
-</details>
+</details><br>
+
 
 - [ ] Cozina
   - [ ] Instale luzes LED embaixo dos prateleiras
