@@ -12,7 +12,7 @@
     - [x] Verniz entre madeira ripada
   - [x] Cria uma mesa de centro personalizada
 
-</details><br>
+</details>
 
 <hr width="30%">
 
