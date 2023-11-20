@@ -25,11 +25,17 @@
   <br><img src=fotos/Screenshot_20231021_171039_Gallery.jpg height=40% width=40%>
       <img src=fotos/Screenshot_20231021_171051_Gallery.jpg height=40% width=40%>
 
+<hr width="30%">
+
 - [ ] Corrija o alinhamento da cabeceira
 <br><img src=fotos/Correct_Headboard_alignment.jpg height=60% width=60%>
 
+<hr width="30%">
+
 <br><img src=fotos/IMG_20231024_113100.jpg height=40% width=40%><br>
 - Pintar a parede embaixo da TV
+
+<hr width="30%">
 
 <br><img src=fotos/IMG_20231023_053952.jpg height=40% width=40%><br>
 - Repare o telhado, conserte vazamentos e remova todas as manchas de água
@@ -37,8 +43,12 @@
 <br><img src=fotos/20231024_153802.jpg height=40% width=40%>
 - Instale luzes LED no armário
 
+<hr width="30%">
+
 - O ventilador do chuveiro está caindo e ficando mais barulhento
 <a href="fotos/20231024_193611.mp4">Vídeo</a>
+
+<hr width="30%">
 
 <br><img src=fotos/CloseWindow.jpg height=30% width=30%><br>
 - [ ] Feche esta janela até a metade. Mova ou remova o que estiver bloqueando o fechamento desta janela. Esta janela não precisa estar muito aberta. Posso ver meu apartamento do corredor. Ao fechar esta janela pela metade, será mais difícil ver o interior do meu apartamento. Entendo que entrará menos ar se esta janela estiver fechada até a metade.
