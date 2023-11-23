@@ -56,6 +56,7 @@
 
 <br><img src=fotos/CloseWindow.jpg height=30% width=30%><br>
 - [ ] Feche esta janela até a metade. Mova ou remova o que estiver bloqueando o fechamento desta janela. Esta janela não precisa estar muito aberta. Posso ver meu apartamento do corredor. Ao fechar esta janela pela metade, será mais difícil ver o interior do meu apartamento. Entendo que entrará menos ar se esta janela estiver fechada até a metade.
+- [ ] Lave a parte externa da janela. A faxineira não consegue alcançá-lo.
 
 <hr width="30%">
 
