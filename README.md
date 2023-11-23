@@ -16,6 +16,10 @@
 
 <hr width="30%">
 
+- [ ] Instale tampas de vaso sanitário que fechem devagar
+
+<hr width="30%">
+
 - [ ] Cozina
   - [ ] Instale luzes LED embaixo dos prateleiras
 
