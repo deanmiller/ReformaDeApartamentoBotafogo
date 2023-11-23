@@ -2,19 +2,6 @@
 
 ## Minha lista de verificação
 
-<details>
-  <summary><b>Itens Concluídos</b></summary>
-
-- [x] Marceneiro
-  - [x] Corrija a oscilação na mesa de trabalho personalizada
-  - [x] Porta da Frente
-    - [x] Corrigir imperfeições
-    - [x] Verniz entre madeira ripada
-  - [x] Cria uma mesa de centro personalizada
-
-</details>
-
-<hr width="30%">
 
 - [ ] Instale tampas de vaso sanitário que fechem devagar
 
@@ -64,5 +51,19 @@
   <summary><b>Novas solicitações a serem concluídas após meu retorno</summary></b></summary><br>
 
 - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
+
+</details>
+
+<hr width="30%">
+
+<details>
+  <summary><b>Itens Concluídos</b></summary>
+
+- [x] Marceneiro
+  - [x] Corrija a oscilação na mesa de trabalho personalizada
+  - [x] Porta da Frente
+    - [x] Corrigir imperfeições
+    - [x] Verniz entre madeira ripada
+  - [x] Cria uma mesa de centro personalizada
 
 </details>
