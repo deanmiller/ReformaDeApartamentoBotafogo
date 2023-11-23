@@ -57,7 +57,7 @@
 <hr width="30%">
 
 <details>
-  <summary><b>Itens Concluídos</b></summary>
+  <summary><b>Itens Concluídos</b></summary><br>
 
 - [x] Marceneiro
   - [x] Corrija a oscilação na mesa de trabalho personalizada
