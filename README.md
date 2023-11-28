@@ -3,6 +3,12 @@
 ## Minha lista de verificação
 
 
+- [ ] Porta da frente
+  - [ ] Vede a porta da frente fora do apartamento usando silicone ou outro material
+
+
+<hr width="30%">
+
 - [ ] Instale tampas de vaso sanitário que fechem devagar
 
 <hr width="30%">
