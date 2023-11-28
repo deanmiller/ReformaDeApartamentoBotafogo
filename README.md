@@ -8,7 +8,7 @@
   <br><img src=fotos/4eeb1a57.jpg height=30% width=30%>
 
   - [ ] Substitua esta peça como falamos sobre
-  <br><img src=fotos/8df917c9.jpg height=30% width=30%>
+  <br><img src=fotos/8df917c9.jpg height=50% width=50%>
  
 <hr width="30%">
 
