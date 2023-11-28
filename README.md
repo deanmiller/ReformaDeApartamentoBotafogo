@@ -5,7 +5,10 @@
 
 - [ ] Porta da frente
   - [ ] Vede a porta da frente fora do apartamento usando silicone ou outro material
- <br><img src=fotos/4eeb1a57.jpg height=30% width=30%>
+  <br><img src=fotos/4eeb1a57.jpg height=30% width=30%>
+
+  - [ ] Substitua esta peça como falamos sobre
+  <br><img src=fotos/8df917c9.jpg height=30% width=30%>
  
 <hr width="30%">
 
