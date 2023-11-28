@@ -5,8 +5,8 @@
 
 - [ ] Porta da frente
   - [ ] Vede a porta da frente fora do apartamento usando silicone ou outro material
-
-
+ <br><img src=fotos/4eeb1a57.jpg height=40% width=40%>
+ 
 <hr width="30%">
 
 - [ ] Instale tampas de vaso sanitário que fechem devagar
