@@ -7,7 +7,7 @@
   - [ ] Vede a porta da frente fora do apartamento usando silicone ou outro material
   <br><img src=fotos/4eeb1a57.jpg height=25% width=25%>
 
-  - [ ] Substitua esta peça como falamos sobre
+  - [ ] substitua esta peça lascada por uma peça branca como falamos
   <br><img src=fotos/8df917c9.jpg height=70% width=70%>
  
 <hr width="30%">
