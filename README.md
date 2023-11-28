@@ -3,7 +3,7 @@
 ## Minha lista de verificação
 
 
-- [ ] Porta da frente
+- [ ] **Porta da Frente**
   - [ ] Preencha o buraco acima da porta do lado de fora do apartamento 
   - [ ] Vede a porta da frente fora do apartamento usando silicone ou outro material
   <br><img src=fotos/4eeb1a57.jpg height=25% width=25%>
@@ -12,11 +12,7 @@
  
 <hr width="30%">
 
-- [ ] Instale tampas de vaso sanitário que fechem devagar
-
-<hr width="30%">
-
-- [ ] Cozina
+- [ ] **Cozina**
   - [ ] Instale luzes LED embaixo dos prateleiras
 
 <hr width="30%">
@@ -50,7 +46,9 @@
 
 <hr width="30%">
 
-- O ventilador do chuveiro está caindo e ficando mais barulhento
+- [ ] **Banheiros**
+  - [ ] Instale tampas de vaso sanitário que fechem devagar
+  - [ ] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
 <a href="fotos/20231024_193611.mp4">Vídeo</a>
 
 <hr width="30%">
