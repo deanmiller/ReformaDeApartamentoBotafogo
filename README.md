@@ -24,6 +24,11 @@
 
 <hr width="30%">
 
+- [ ] pintar a moldura da porta do quarto
+<img src=fotos/6a5c9a8f.jpg height=40% width=40%>
+
+<hr width="30%">
+
 - [ ] Corrija o alinhamento da cabeceira
 <br><img src=fotos/Correct_Headboard_alignment.jpg height=60% width=60%>
 
