@@ -4,9 +4,9 @@
 
 
 - [ ] Porta da frente
+  - [ ] Preencha o buraco acima da porta do lado de fora do apartamento 
   - [ ] Vede a porta da frente fora do apartamento usando silicone ou outro material
   <br><img src=fotos/4eeb1a57.jpg height=25% width=25%>
-
   - [ ] substitua esta peça lascada por uma peça branca como falamos
   <br><img src=fotos/8df917c9.jpg height=70% width=70%>
  
