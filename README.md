@@ -61,10 +61,9 @@
 
 - [x] Marceneiro
   - [x] Corrija a oscilação na mesa de trabalho personalizada
-  <br><img src=fotos/IMG_20231127_234654.jpg height=40% width=40%>
   - [x] Porta da Frente
     - [x] Corrigir imperfeições
     - [x] Verniz entre madeira ripada
   - [x] Cria uma mesa de centro personalizada
-
+  <br><img src=fotos/IMG_20231127_234654.jpg height=30% width=30%>
 </details>
