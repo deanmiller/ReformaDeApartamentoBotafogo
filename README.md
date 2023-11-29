@@ -71,7 +71,7 @@
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
 
-- [x] Marceneiro
+- [x] Marceneiro (Pago integralmente)
   - [x] Corrija a oscilação na mesa de trabalho personalizada
   - [x] Porta da Frente
     - [x] Corrigir imperfeições
