@@ -1,6 +1,6 @@
 # Reforma De Apartamento Botafogo
 
-## Minha lista de verificação 
+## Lista de verificação 
 _(Última atualização em 10/12/2023)_
 
 - [ ] **Banheiros**
