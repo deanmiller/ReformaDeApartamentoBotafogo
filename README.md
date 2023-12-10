@@ -12,6 +12,7 @@
 
 - [ ] **Depósito**
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
+    - [ ] Troque a tomada da parede ao lado do sofá pela nova tomada 
 - [ ] **Porta da Frente**
   - [ ] instale outra fechadura em cima da porta
   - [ ] instalar olho mágico na porta
