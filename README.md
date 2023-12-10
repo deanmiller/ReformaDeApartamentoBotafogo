@@ -9,7 +9,7 @@ _(Última atualização em 10/12/2023)_
 <a href="fotos/20231024_193611.mp4">Vídeo</a>
 
 <details>
-  <summary><b>Novas solicitações a serem concluídas após meu retorno</summary></b></summary><br>
+  <summary><b>Novas solicitações (a serem concluídas após meu retorno em 30 de dezembro)</b></summary><br>
 
 - [ ] **Depósito**
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
