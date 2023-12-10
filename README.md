@@ -1,7 +1,7 @@
 # Reforma De Apartamento Botafogo
 
 ## Minha lista de verificação 
-##### (Última atualização em 10/12/2023)
+_(Última atualização em 10/12/2023)_
 
 - [ ] **Banheiros**
   - [ ] Instale tampas de vaso sanitário que fechem devagar
