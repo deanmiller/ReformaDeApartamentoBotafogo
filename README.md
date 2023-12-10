@@ -18,6 +18,7 @@ _(Última atualização em 10/12/2023)_
   - [ ] instale outra fechadura em cima da porta
   - [ ] instalar olho mágico na porta
   - [ ] Adicione óleo nas dobradiças da porta da frente para que ela não chie ao abrir
+  - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta.
 
 </details>
 
