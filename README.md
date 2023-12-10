@@ -7,7 +7,7 @@
   - [ ] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
 <a href="fotos/20231024_193611.mp4">Vídeo</a>
 
-<details open>
+<details>
   <summary><b>Novas solicitações a serem concluídas após meu retorno</summary></b></summary><br>
 
 - [ ] **Depósito**
