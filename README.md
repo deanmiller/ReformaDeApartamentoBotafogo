@@ -15,7 +15,7 @@ _(Última atualização em 10/12/2023)_
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
     - [ ] Troque a tomada da parede ao lado do sofá pela nova tomada 
 - [ ] **Porta da Frente**
-  - [ ] instale outra fechadura em cima da porta
+  - [ ] instale outra fechadura em cima da porta (Esqueci como se chama a fechadura que tem a chave circular no topo)
   - [ ] instalar olho mágico na porta
   - [ ] Adicione óleo nas dobradiças da porta da frente para que ela não chie ao abrir
   - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta.
