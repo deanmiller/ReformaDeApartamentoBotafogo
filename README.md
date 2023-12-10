@@ -36,7 +36,6 @@
     - [x] Corrigir imperfeições
     - [x] Verniz entre madeira ripada
   - [x] Cria uma mesa de centro personalizada
-  <br><img src=fotos/IMG_20231127_234654.jpg height=40% width=40%>
 - [x] **Cozina**
   - [x] Instale luzes LED embaixo dos prateleiras
   - [x] Instale luzes LED no armário
