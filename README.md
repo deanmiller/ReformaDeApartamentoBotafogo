@@ -10,8 +10,6 @@
 <details open>
   <summary><b>Novas solicitações a serem concluídas após meu retorno</summary></b></summary><br>
 
-<hr width="30%">
-
 - [ ] **Depósito**
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
 - [ ] **Porta da Frente**
@@ -19,16 +17,12 @@
   - [ ] instalar olho mágico na porta
   - [ ] Adicione óleo nas dobradiças da porta da frente para que ela não chie ao abrir
 
-<hr width="30%">
-
 </details>
 
 
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
-
-<hr width="30%">
 
 - [x] **Marceneiro (Pago integralmente)**
   - [x] Corrija a oscilação na mesa de trabalho personalizada
@@ -52,7 +46,5 @@
 - [x] **Quarto**
   - [x] Corrija o alinhamento da cabeceira
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
-
- <hr width="30%">
 
 </details>
