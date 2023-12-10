@@ -32,7 +32,6 @@
   - [x] Cria uma mesa de centro personalizada
 - [x] **Cozina**
   - [x] Instale luzes LED embaixo dos prateleiras
-  - [x] Instale luzes LED no armário
   - [x] Feche esta janela até a metade.
   - [x] Lave a parte externa da janela. A faxineira não consegue alcançá-lo.
 - [x] **Pintar**
@@ -44,6 +43,7 @@
   - [x] Vede a porta da frente fora do apartamento usando silicone ou outro material
   - [x] substitua esta peça lascada por uma peça branca como falamos
 - [x] **Quarto**
+  - [x] Instale luzes LED no armário
   - [x] Corrija o alinhamento da cabeceira
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
 
