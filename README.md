@@ -5,8 +5,6 @@ _(Última atualização em 10/12/2023)_
 
 - [ ] **Banheiros**
   - [ ] Instale tampas de vaso sanitário que fechem devagar
-  - [ ] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
-<a href="fotos/20231024_193611.mp4">Vídeo</a>
 
 <details>
   <summary><b>Novas Solicitações (a serem concluídas após meu retorno em 30 de dezembro)</b></summary><br>
@@ -49,5 +47,7 @@ _(Última atualização em 10/12/2023)_
   - [x] Instale luzes LED no armário
   - [x] Corrija o alinhamento da cabeceira
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
+- [x] **Banheiros**
+  - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
 
 </details>
