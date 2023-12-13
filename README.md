@@ -51,3 +51,11 @@ _(Última atualização em 10/12/2023)_
   - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
 
 </details>
+
+<details>
+  <summary><b>Maybe</b></summary><br>
+
+  - [ ] Cut a larger hole for the sink???
+  - [ ] Water filter for a sink [(Purificador Filtro)](https://produto.mercadolivre.com.br/MLB-2188131104-purificador-filtro-lorenzetti-agua-loren-9-34-ponto-de-uso-_JM?matt_tool=94929336&matt_word=&matt_source=google&matt_campaign_id=14302215567&matt_ad_group_id=134553709588&matt_match_type=&matt_network=g&matt_device=m&matt_creative=539425529500&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=662573892&matt_product_id=MLB2188131104&matt_product_partition_id=1799822200469&matt_target_id=pla-1799822200469&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3H5X_N3VA9_NYMbdrG9EOFN0C9YO45SlxMGjqgz3fetvZKkVIFUcMhoCNnsQAvD_BwE)
+
+</details>
