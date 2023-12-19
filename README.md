@@ -15,12 +15,9 @@ _(Última atualização em 10/12/2023)_
 - [ ] **Porta da Frente**
   - [ ] instale outra fechadura em cima da porta (Esqueci como se chama a fechadura que tem a chave circular no topo)
   - [ ] instalar olho mágico na porta
-  - [ ] Adicione óleo nas dobradiças da porta da frente para que ela não chie ao abrir
   - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta.
 
 </details>
-
-
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
@@ -43,6 +40,8 @@ _(Última atualização em 10/12/2023)_
   - [x] Preencha o buraco acima da porta do lado de fora do apartamento 
   - [x] Vede a porta da frente fora do apartamento usando silicone ou outro material
   - [x] substitua esta peça lascada por uma peça branca como falamos
+  - [x] Adicione óleo nas dobradiças da porta da frente para que ela não chie ao abrir
+  - [x] Preencha o espaço entre a madeira da porta da frente e o tempo no lado inferior direito.
 - [x] **Quarto**
   - [x] Instale luzes LED no armário
   - [x] Corrija o alinhamento da cabeceira
