@@ -1,23 +1,19 @@
 # Reforma De Apartamento Botafogo
 
 ## Lista de Verificação 
-_(Última atualização em 19/12/2023)_
+_(Última atualização em 26/12/2023)_
+
+### Novas Solicitações (a serem concluídas após meu retorno em 30 de dezembro)
 
 - [ ] **Quarto**
   - [ ] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
-
-<details>
-  <summary><b>Novas Solicitações (a serem concluídas após meu retorno em 30 de dezembro)</b></summary><br>
-
 - [ ] **Depósito**
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
     - [ ] Troque a tomada da parede ao lado do sofá pela nova tomada 
 - [ ] **Porta da Frente**
   - [ ] instale outra fechadura em cima da porta (Esqueci como se chama a fechadura que tem a chave circular no topo)
   - [ ] instalar olho mágico na porta
-  - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta.
-
-</details>
+  - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
