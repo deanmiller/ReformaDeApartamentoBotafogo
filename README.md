@@ -3,8 +3,8 @@
 ## Lista de Verificação 
 _(Última atualização em 19/12/2023)_
 
-- [ ] **Banheiros**
-  - [ ] Instale tampas de vaso sanitário que fechem devagar
+- [ ] **Quarto**
+  - [ ] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
 
 <details>
   <summary><b>Novas Solicitações (a serem concluídas após meu retorno em 30 de dezembro)</b></summary><br>
@@ -48,6 +48,7 @@ _(Última atualização em 19/12/2023)_
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
 - [x] **Banheiros**
   - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
+  - [x] Instale tampas de vaso sanitário que fechem devagar
 
 </details>
 
