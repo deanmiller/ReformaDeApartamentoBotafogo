@@ -1,12 +1,10 @@
 # Reforma De Apartamento Botafogo
 
 ## Lista de Verificação 
-_(Última atualização em 26/12/2023)_
+_(Última atualização em 14/1/2024)_
 
 ### Novas Solicitações (a serem concluídas após meu retorno em 30 de dezembro)
 
-- [ ] **Quarto**
-  - [ ] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
 - [ ] **Depósito**
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
     - [ ] Troque a tomada da parede ao lado do sofá pela nova tomada 
@@ -47,6 +45,7 @@ _(Última atualização em 26/12/2023)_
   - [x] Instale luzes LED no armário
   - [x] Corrija o alinhamento da cabeceira
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
+  - [x] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
 - [x] **Banheiros**
   - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
   - [x] Instale tampas de vaso sanitário que fechem devagar
