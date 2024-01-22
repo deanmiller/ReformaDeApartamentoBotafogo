@@ -17,6 +17,7 @@ _(Última atualização em 14/1/2024)_
 
 - [ ] Use o crédito pendente da loja
 - [ ] Instale algo na parte inferior da porta frontal para fechar o buraco
+- [ ] Instale uma câmera escondida que se pareça com um detector de fumaça.  Esta câmera estará apontada para a porta da frente
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
