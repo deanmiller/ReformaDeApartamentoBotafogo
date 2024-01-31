@@ -9,6 +9,7 @@ _(Última atualização em 14/1/2024)_
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
     - [ ] Troque a tomada da parede ao lado do sofá pela nova tomada 
 - [ ] **Porta da Frente**
+  - [ ] Adicione a peça na parte inferior da porta para evitar que poeira e insetos entrem no apartamento
   - [ ] instale outra fechadura em cima da porta (Esqueci como se chama a fechadura que tem a chave circular no topo)
   - [ ] instalar olho mágico na porta
   - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta
