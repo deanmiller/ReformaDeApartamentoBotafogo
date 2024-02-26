@@ -6,6 +6,9 @@ _(Última atualização em 26/2/2024)_
 
 ### Itens que foram discutidos durante nossa última reunião em 31/01/2024
 
+- [ ] **Quarto**
+  - [ ] Repare a área acima da cabeceira da parede por onde a água começa a entrar novamente
+  - [ ] A porta da suíte não fecha no espaço pretendido
 - [ ] **Depósito**
   - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
     - [ ] instale um desumidificador com linha de drenagem no depósito para remover a umidade
