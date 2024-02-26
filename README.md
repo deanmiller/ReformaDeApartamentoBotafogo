@@ -1,22 +1,18 @@
 # Reforma De Apartamento Botafogo
 
 ## Lista de Verificação 
-_(Última atualização em 7/2/2024)_
+_(Última atualização em 26/2/2024)_
 
 
 ### Itens que foram discutidos durante nossa última reunião em 31/01/2024
 
 - [ ] **Depósito**
-  - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
+  - [ ] **Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro**
     - [ ] instale um desumidificador com linha de drenagem no depósito para remover a umidade
 - [ ] **Porta da Frente**
-  - [ ] Adicione a peça na parte inferior da porta para evitar que poeira e insetos entrem no apartamento
   - [ ] instalar olho mágico na porta
-  - [ ] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta
 - [ ] **Cozina**
-  - [ ] [(Purificador Filtro)](https://produto.mercadolivre.com.br/MLB-2188131104-purificador-filtro-lorenzetti-agua-loren-9-34-ponto-de-uso-_JM?matt_tool=94929336&matt_word=&matt_source=google&matt_campaign_id=14302215567&matt_ad_group_id=134553709588&matt_match_type=&matt_network=g&matt_device=m&matt_creative=539425529500&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=662573892&matt_product_id=MLB2188131104&matt_product_partition_id=1799822200469&matt_target_id=pla-1799822200469&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3H5X_N3VA9_NYMbdrG9EOFN0C9YO45SlxMGjqgz3fetvZKkVIFUcMhoCNnsQAvD_BwE) de água para pia da cozinha
-- [ ] Use o crédito pendente da loja
-- [ ] Instale uma câmera escondida que se pareça com um detector de fumaça.  Esta câmera estará apontada para a porta da frente
+  - [ ] Instalar Purificador Filtro de água para pia da cozinha
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
@@ -31,6 +27,8 @@ _(Última atualização em 7/2/2024)_
   - [x] Instale luzes LED embaixo dos prateleiras
   - [x] Feche esta janela até a metade.
   - [x] Lave a parte externa da janela. A faxineira não consegue alcançá-lo.
+  - [x] Comprar Purificador Filtro de água para pia da cozinha
+    - [x] Use o crédito pendente da loja 
 - [x] **Pintar**
   - [x] Pintar e selar a parte superior de todas as portas
   - [x] Pintar a parede embaixo da TV
@@ -41,6 +39,9 @@ _(Última atualização em 7/2/2024)_
   - [x] substitua esta peça lascada por uma peça branca como falamos
   - [x] Adicione óleo nas dobradiças da porta da frente para que ela não chie ao abrir
   - [x] Preencha o espaço entre a madeira da porta da frente e o tempo no lado inferior direito.
+  - [x] Adicione a peça na parte inferior da porta para evitar que poeira e insetos entrem no apartamento
+  - [x] Adicione o número do apartamento à porta da frente com letras prateadas que combinem com a maçaneta da porta
+  - [x] Instale uma câmera escondida que se pareça com um detector de fumaça.  Esta câmera estará apontada para a porta da frente
 - [x] **Quarto**
   - [x] Instale luzes LED no armário
   - [x] Corrija o alinhamento da cabeceira
