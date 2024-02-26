@@ -7,7 +7,7 @@ _(Última atualização em 26/2/2024)_
 ### Itens que foram discutidos durante nossa última reunião em 31/01/2024
 
 - [ ] **Depósito**
-  - [ ] **Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro**
+  - [ ] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
     - [ ] instale um desumidificador com linha de drenagem no depósito para remover a umidade
 - [ ] **Porta da Frente**
   - [ ] instalar olho mágico na porta
