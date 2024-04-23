@@ -4,8 +4,6 @@
 _(Última atualização em 22/4/2024)_
 
 
-### Itens que foram discutidos durante nossa última reunião em 31/01/2024
-
 - [ ] **Cozina**
   - [ ] Instalar Purificador Filtro de água para pia da cozinha
 - [ ] **Quarto**
