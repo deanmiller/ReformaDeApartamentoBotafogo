@@ -9,7 +9,6 @@ _(Última atualização em 22/4/2024)_
 - [ ] **Quarto**
   - [ ] Repare a área acima da cabeceira da parede por onde a água começa a entrar novamente
   - [ ] Reparar a origem da mancha de água e o teto do banheiro da suíte
-  - [ ] A porta da suíte não fecha no espaço pretendido
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
@@ -47,6 +46,7 @@ _(Última atualização em 22/4/2024)_
   - [x] Corrija o alinhamento da cabeceira
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
   - [x] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
+  - [ ] A porta da suíte não fecha no espaço pretendido
 - [x] **Banheiros**
   - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
   - [x] Instale tampas de vaso sanitário que fechem devagar
