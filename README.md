@@ -3,6 +3,8 @@
 ## Lista de Verificação 
 _(Última atualização em 8/6/2024)_
 
+### Corrigir danos causados ​​pela água
+
 - [ ] **Teto**
   - [ ] Impermeabilizar a zona do telhado por onde entra a água incluindo [o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
 - [ ] **Quarto**
