@@ -6,7 +6,8 @@ _(Última atualização em 8/6/2024)_
 - [ ] **Teto**
   - [ ] Impermeabilizar a zona do telhado por onde entra a água incluindo [o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
 - [ ] **Quarto**
-  - [ ] Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto.
+  - [ ] Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto
+  - [ ] Substitua o encaixe de madeira do nicho por um novo (após reparar o vazamento de água)
 - [ ] **Banheiro de Suite**
   - [ ] Conserte todos os danos causados ​​pela água no banheiro da suíte
     - [ ] Abra o teto do banheiro e instale impermeabilização plástica para evitar a formação de futuras manchas de água
