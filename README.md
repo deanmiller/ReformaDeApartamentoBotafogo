@@ -5,11 +5,7 @@ _(Última atualização em 8/6/2024)_
 
 - [ ] **Teto**
   - [ ] Impermeabilizar a zona do telhado por onde entra a água incluindo o parafuso junto ao pé do aparelho de ar condicionado.
-
-<video controls autoplay>
-  <source src="fotos/teto.mp4" type="video/mp4">
- </video>
-
+    [[BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4)
 - [ ] **Quarto**
   - [ ] Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto.
 - [ ] **Banheiro de Suite**
