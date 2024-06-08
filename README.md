@@ -16,6 +16,8 @@ _(Última atualização em 8/6/2024)_
     - [ ] Reparar a origem da mancha de água e o teto do banheiro da suíte
   - [ ] Adicione outro suporte de metal no lado direito da prateleira de madeira acima da pia do banheiro da suíte
 
+----
+
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
 
