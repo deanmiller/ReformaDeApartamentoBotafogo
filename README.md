@@ -16,6 +16,7 @@ _(Última atualização em 8/6/2024)_
   - [ ] Conserte todos os danos causados ​​pela água no banheiro da suíte
     - [ ] Abra o teto do banheiro e instale impermeabilização plástica para evitar a formação de futuras manchas de água
     - [ ] Reparar a origem da mancha de água e o teto do banheiro da suíte
+    - [ ] Certifique-se de que o ventilador do chuveiro esteja instalado nivelado com o teto (o ventilador estava preenchendo o teto causando mais ruído)
   - [ ] Adicione outro suporte de metal no lado direito da prateleira de madeira acima da pia do banheiro da suíte
 
 ----
