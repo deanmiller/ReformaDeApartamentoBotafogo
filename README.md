@@ -1,6 +1,6 @@
 # Reforma De Apartamento Botafogo
 
-## Lista de Verificação 
+## Checklist (Lista de Verificação)
 _(Última atualização em 8/6/2024)_
 
 ----
