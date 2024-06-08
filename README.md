@@ -3,6 +3,8 @@
 ## Lista de Verificação 
 _(Última atualização em 8/6/2024)_
 
+----
+
 ### Corrigir danos causados ​​pela água
 
 - [ ] **Teto**
