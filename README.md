@@ -1,14 +1,17 @@
 # Reforma De Apartamento Botafogo
 
 ## Lista de Verificação 
-_(Última atualização em 22/4/2024)_
+_(Última atualização em 8/6/2024)_
 
-
-- [ ] **Cozina**
-  - [ ] Instalar Purificador Filtro de água para pia da cozinha
+- [ ] **Teto**
+  - [ ] Impermeabilizar a zona do telhado por onde entra a água incluindo o parafuso junto ao pé do aparelho de ar condicionado.
 - [ ] **Quarto**
-  - [ ] Repare a área acima da cabeceira da parede por onde a água começa a entrar novamente
-  - [ ] Reparar a origem da mancha de água e o teto do banheiro da suíte
+  - [ ] Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto.
+- [ ] **Banheiro de Suite**
+  - [ ] Conserte todos os danos causados ​​pela água no banheiro da suíte
+    - [ ] Abra o teto do banheiro e instale impermeabilização plástica para evitar a formação de futuras manchas de água
+    - [ ] Reparar a origem da mancha de água e o teto do banheiro da suíte
+  - [ ] Adicione outro suporte de metal no lado direito da prateleira de madeira acima da pia do banheiro da suíte
 
 <details>
   <summary><b>Itens Concluídos</b></summary><br>
@@ -22,6 +25,7 @@ _(Última atualização em 22/4/2024)_
 - [x] **Depósito**
   - [x] Conclua o espaço atrás da grade no espaço de rastejamento, incluindo a instalação do terceiro plugue dos EUA dentro
 - [x] **Cozina**
+  - [x] Instalar Purificador Filtro de água para pia da cozinha
   - [x] Instale luzes LED embaixo dos prateleiras
   - [x] Feche esta janela até a metade.
   - [x] Lave a parte externa da janela. A faxineira não consegue alcançá-lo.
@@ -32,7 +36,7 @@ _(Última atualização em 22/4/2024)_
   - [x] Pintar a parede embaixo da TV
   - [x] pintar a moldura da porta do quarto
 - [x] **Porta da Frente**
-  - [x] instalar olho mágico na porta
+  - [x] Instalar olho mágico na porta
   - [x] Preencha o buraco acima da porta do lado de fora do apartamento 
   - [x] Vede a porta da frente fora do apartamento usando silicone ou outro material
   - [x] substitua esta peça lascada por uma peça branca como falamos
