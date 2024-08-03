@@ -1,29 +1,14 @@
 # Reforma De Apartamento Botafogo
 
 ## Checklist (Lista de Verificação)
-_(Última atualização em 8/6/2024)_
+_(Última atualização em 3/8/2024)_
 
 ----
 
-### Corrigir danos causados ​​pela água (Por favor, tente corrigir todos esses itens antes de 15 de agosto)
-
-- [ ] **Teto**
-  - [ ] Impermeabilizar a zona do telhado por onde entra a água incluindo [o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
-- [ ] **Quarto**
-  - [ ] Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto
-  - [ ] Substitua o encaixe de madeira do nicho por um novo (após reparar o vazamento de água)
-- [ ] **Banheiro de Suite**
-  - [ ] Conserte todos os danos causados ​​pela água no banheiro da suíte
-    - [ ] Abra o teto do banheiro e instale impermeabilização plástica para evitar a formação de futuras manchas de água
-    - [ ] Reparar a origem da mancha de água e o teto do banheiro da suíte
-    - [ ] Certifique-se de que o ventilador do chuveiro esteja instalado nivelado com o teto (o ventilador estava preenchendo o teto causando mais ruído)
-  - [ ] Adicione outro suporte de metal no lado direito da prateleira de madeira acima da pia do banheiro da suíte
-
-----
-
-<details>
-  <summary><b>Itens Concluídos</b></summary><br>
-
+### Itens Concluídos
+  
+- [x] **Teto**
+  - [x] Novo dano: Impermeabilizar a zona do telhado por onde entra a água incluindo [o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
 - [x] **Marceneiro (Pago integralmente)**
   - [x] Corrija a oscilação na mesa de trabalho personalizada
   - [x] Porta da Frente
@@ -58,9 +43,15 @@ _(Última atualização em 8/6/2024)_
   - [x] Corrija o alinhamento da cabeceira
   - [x] Repare o telhado, conserte vazamentos e remova todas as manchas de água
   - [x] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
-  - [ ] A porta da suíte não fecha no espaço pretendido
+  - [x] A porta da suíte não fecha no espaço pretendido
+  - [x] Novo dano: Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto
+  ~~ Substitua o encaixe de madeira do nicho por um novo (após reparar o vazamento de água)~~
 - [x] **Banheiros**
-  - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
   - [x] Instale tampas de vaso sanitário que fechem devagar
-
-</details>
+  - [x] Banheiro de Suite
+    - [x] Novo dano: Conserte todos os danos causados ​​pela água no banheiro da suíte
+      - [x] Abra o teto do banheiro e instale impermeabilização plástica para evitar a formação de futuras manchas de água
+      - [x] Reparar a origem da mancha de água e o teto do banheiro da suíte
+      - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
+        - [x] Certifique-se de que o ventilador do chuveiro esteja instalado nivelado com o teto (o ventilador estava preenchendo o teto causando mais ruído)
+    - [x] Adicione outro suporte de metal no lado direito da prateleira de madeira acima da pia do banheiro da suíte
