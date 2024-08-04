@@ -41,7 +41,7 @@ _(Última atualização em 3/8/2024)_
   - [x] preencher rachadura ao longo da parede onde estou sentado enquanto trabalho com silicone
   - [x] A porta da suíte não fecha no espaço pretendido
   - [x] Novo dano: Repare a área acima da cabeceira da cama onde a água vaza pela parede do quarto
-  ~~ Substitua o encaixe de madeira do nicho por um novo (após reparar o vazamento de água)~~
+  - ~~Substitua o encaixe de madeira do nicho por um novo (após reparar o vazamento de água)~~
 - [x] **Banheiros**
   - [x] Instale tampas de vaso sanitário que fechem devagar
   - [x] Banheiro de Suite
