@@ -7,6 +7,12 @@ _(Última atualização em 3/17/2025)_
   <summary>Reparar os danos causados ​​pela água após o vazamento do apartamento acima de 2025</summary><br/>
 
 - [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
+- [ ] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
+- [ ] Corte e substitua o teto de drywall contaminado da cozinha
+- [ ] Cortar e substituir o teto de drywall contaminado no lavabo
+- [ ] Adicione uma maneira para a água drenar para o poço de ar caso haja outro vazamento pelo telhado
+  - [ ] Adicione um pedaço de algo que drene a água para o lado e depois para fora de um cano até o poço de ventilação acima do drywall
+- [ ] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
 
 </details>
 
