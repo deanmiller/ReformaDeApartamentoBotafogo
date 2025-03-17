@@ -3,8 +3,16 @@
 ## Checklist (Lista de Verificação)
 _(Última atualização em 3/17/2025)_
 
-- Reparar os danos causados ​​pela água após o vazamento do apartamento acima de 2025.
-- [ ] Conserte o botão do banheiro do meio-banheiro. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
+<details>
+  <summary>Reparar os danos causados ​​pela água após o vazamento do apartamento acima de 2025</summary><br/>
+
+- [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
+
+</details>
+
+
+<details>
+  <summary>Renovações Passadas</summary><br/>
   
 - [x] **Teto**
   - [x] Novo dano: Impermeabilizar a zona do telhado por onde entra a água incluindo [o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
@@ -55,3 +63,5 @@ _(Última atualização em 3/17/2025)_
       - [x] O ventilador do chuveiro está caindo e ficando mais barulhento. conserte isso
         - [x] Certifique-se de que o ventilador do chuveiro esteja instalado nivelado com o teto (o ventilador estava preenchendo o teto causando mais ruído)
     - [x] Adicione outro suporte de metal no lado direito da prateleira de madeira acima da pia do banheiro da suíte
+       
+</details>
