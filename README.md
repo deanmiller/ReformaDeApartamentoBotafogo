@@ -21,7 +21,7 @@ _(Última atualização em 3/17/2025)_
   <summary>Renovações Passadas</summary><br/>
   
 - [x] **Teto**
-  - [x] Novo dano: Impermeabilizar a zona do telhado por onde entra a água incluindo o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
+  - [x] Novo dano: Impermeabilizar a zona do telhado por onde entra a água incluindo o parafuso [BAIXAR VIDEO](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
 - [x] **Marceneiro (Pago integralmente)**
   - [x] Corrija a oscilação na mesa de trabalho personalizada
   - [x] Porta da Frente
