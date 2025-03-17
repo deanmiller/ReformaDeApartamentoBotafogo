@@ -23,7 +23,7 @@ _(Última atualização em 3/17/2025)_
 </details>
 
 
-<details>
+<br/><details>
   <summary>Renovações Passadas</summary><br/>
   
 - [x] **Teto**
