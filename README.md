@@ -16,6 +16,8 @@ _(Última atualização em 3/17/2025)_
   - [ ] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
   - [ ] Cortar e substituir o teto de drywall contaminado no lavabo
   - [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
+- [ ] **Sala**
+  - [ ] Inverter o plugue dos EUA
 - [ ] **Depósito/Guarda Volume**
   - [ ] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
 - [ ] **Suíte**
