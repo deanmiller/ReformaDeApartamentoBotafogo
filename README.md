@@ -12,6 +12,7 @@ _(Última atualização em 3/17/2025)_
   - [ ] Adicione uma maneira para a água drenar para o poço de ar caso haja outro vazamento pelo telhado
   - [ ] Adicione um pedaço de algo que drene a água para o lado e depois para fora de um cano até o poço de ventilação acima do drywall
 - [ ] **Lavabo**
+  - [ ] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
   - [ ] Cortar e substituir o teto de drywall contaminado no lavabo
   - [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
 - [ ] **Depósito/Guarda Volume**
