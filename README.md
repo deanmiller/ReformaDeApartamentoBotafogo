@@ -1,7 +1,10 @@
 # Reforma De Apartamento Botafogo
 
 ## Checklist (Lista de Verificação)
-_(Última atualização em 3/8/2024)_
+_(Última atualização em 3/17/2025)_
+
+- Reparar os danos causados ​​pela água após o vazamento do apartamento acima de 2025.
+- [ ] Conserte o botão do banheiro do meio-banheiro. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
   
 - [x] **Teto**
   - [x] Novo dano: Impermeabilizar a zona do telhado por onde entra a água incluindo [o parafuso [BAIXAR VIDEO]](https://github.com/deanmiller/ReformaDeApartamentoBotafogo/raw/main/fotos/teto.mp4) junto ao pé do aparelho de ar condicionado.
@@ -45,6 +48,7 @@ _(Última atualização em 3/8/2024)_
 - [x] **Banheiros**
   - [x] Instale tampas de vaso sanitário que fechem devagar
   - [x] Banheiro de Suite
+    - [x] Fixe o sensor de calor no aquecedor para que a água quente funcione no chuveiro.
     - [x] Novo dano: Conserte todos os danos causados ​​pela água no banheiro da suíte
       - [x] Abra o teto do banheiro e instale impermeabilização plástica para evitar a formação de futuras manchas de água
       - [x] Reparar a origem da mancha de água e o teto do banheiro da suíte
