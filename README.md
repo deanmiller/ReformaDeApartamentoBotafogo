@@ -18,6 +18,8 @@ _(Última atualização em 3/17/2025)_
   - [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
 - [ ] **Depósito/Guarda Volume**
   - [ ] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
+- [ ] **Suíte**
+  - [ ] Pintar as paredes de cinza claro
 - [ ] **Reembolso**
   - [ ] Após a conclusão dos reparos, entre em contato com a Administração do prédio para tentar obter o ressarcimento.
 
