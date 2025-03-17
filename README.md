@@ -3,7 +3,7 @@
 ## Checklist (Lista de Verificação)
 _(Última atualização em 3/17/2025)_
 
-<details>
+<details open>
   <summary>Reparar os danos causados ​​pela água após o vazamento do apartamento acima de 2025</summary><br/>
 
 - [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
