@@ -22,6 +22,7 @@ _(Última atualização em 3/17/2025)_
   - [ ] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
 - [ ] **Suíte**
   - [ ] Pintar as paredes de cinza claro (três camadas de tinta)
+    - [ ] Conserte todas as rachaduras nas paredes do quarto
 - [ ] **Reembolso**
   - [ ] Após a conclusão dos reparos, entre em contato com a Administração do prédio para tentar obter o ressarcimento.
 
