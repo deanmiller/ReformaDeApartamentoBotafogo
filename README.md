@@ -15,8 +15,8 @@ _(Última atualização em 3/17/2025)_
   - [ ] **Conserte o interfone que pode ter sido danificado por causa da água no teto**
 - [ ] **Lavabo**
   - [ ] **Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente**
-  - [x] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
   - [ ] Cortar e substituir o teto de drywall contaminado no lavabo
+  - [x] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
 - [x] **Sala**
   - [x] Inverter o plugue dos EUA
     - [ ] Preencha o pequeno furo sob o plugue que foi invertido
