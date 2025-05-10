@@ -8,23 +8,24 @@ _(Última atualização em 3/17/2025)_
 
 - [ ] **Cozinha**
   - [ ] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
-  - [ ] Conserte o interfone que pode ter sido danificado por causa da água no teto.
+  - [ ] **Conserte o interfone que pode ter sido danificado por causa da água no teto**
   - [ ] Corte e substitua o teto de drywall contaminado da cozinha
-  - [ ] Adicione uma maneira para a água drenar para o poço de ar caso haja outro vazamento pelo telhado
-  - [ ] Adicione um pedaço de algo que drene a água para o lado e depois para fora de um cano até o poço de ventilação acima do drywall
+  - [x] Adicione uma maneira para a água drenar para o poço de ar caso haja outro vazamento pelo telhado
+  - [x] Adicione um pedaço de algo que drene a água para o lado e depois para fora de um cano até o poço de ventilação acima do drywall
 - [ ] **Lavabo**
   - [ ] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
   - [ ] Cortar e substituir o teto de drywall contaminado no lavabo
   - [ ] Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente
-- [ ] **Sala**
-  - [ ] Inverter o plugue dos EUA
-- [ ] **Depósito/Guarda Volume**
-  - [ ] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
-- [ ] **Suíte**
-  - [ ] Pintar as paredes de cinza claro (três camadas de tinta)
-    - [ ] Conserte todas as rachaduras nas paredes do quarto
-- [ ] **Reembolso**
-  - [ ] Após a conclusão dos reparos, entre em contato com a Administração do prédio para tentar obter o ressarcimento.
+- [x] **Sala**
+  - [x] Inverter o plugue dos EUA
+  - [ ] Preencha o pequeno furo sob o plugue que foi invertido.
+- [x] **Depósito/Guarda Volume**
+  - [x] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
+- [x] **Suíte**
+  - [x] Pintar as paredes de cinza claro (três camadas de tinta)
+    - [x] Conserte todas as rachaduras nas paredes do quarto
+- [x] **Reembolso**
+  - [x] Após a conclusão dos reparos, entre em contato com a Administração do prédio para tentar obter o ressarcimento.
 
 </details>
 
