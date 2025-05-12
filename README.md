@@ -21,6 +21,7 @@ _(Última atualização em 10/5/2025)_
 - [x] **Sala**
   - [x] Inverter o plugue dos EUA
     - [ ] Preencha o pequeno furo sob o plugue que foi invertido
+  - [ ] Conecte um conector de parede CAT6 próximo ao sofá
 - [x] **Depósito/Guarda Volume**
   - [x] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
 - [x] **Suíte**
