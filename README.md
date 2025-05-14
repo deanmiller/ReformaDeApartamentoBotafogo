@@ -1,7 +1,7 @@
 # Reforma De Apartamento Botafogo
 
 ## Checklist (Lista de Verificação)
-_(Última atualização em 10/5/2025)_
+_(Última atualização em 14/5/2025)_
 
 <details open>
   <summary>Reparar os danos causados ​​pela água após o vazamento do apartamento acima de 2025</summary><br/>
@@ -14,14 +14,14 @@ _(Última atualização em 10/5/2025)_
   - [ ] Substitua o teto de drywall contaminado da cozinha
   - [ ] **Conserte o interfone que pode ter sido danificado por causa da água no teto**
 - [ ] **Lavabo**
-  - [ ] **Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente**
   - [x] Cortar o teto de drywall contaminado no lavabo
-  - [ ] Substituir o teto de drywall contaminado no lavabo
   - [x] Desinfete a área entre a laje e a parede de gesso com peróxido de hidrogênio
+  - [ ] Substituir o teto de drywall contaminado no lavabo
+  - [ ] **Conserte o botão do banheiro do lavabo. Compre uma nova peça de botão para fazer o banheiro da frente funcionar novamente**
 - [x] **Sala**
   - [x] Inverter o plugue dos EUA
     - [ ] Preencha o pequeno furo sob o plugue que foi invertido
-  - [ ] Conecte um conector de parede CAT6 próximo ao sofá
+  - [x] Conecte um conector de parede CAT6 próximo ao sofá
 - [x] **Depósito/Guarda Volume**
   - [x] Pinte o interior do depósito com tinta que o proteja do cheiro de mofo
 - [x] **Suíte**
